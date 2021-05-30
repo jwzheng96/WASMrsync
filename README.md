@@ -24,6 +24,6 @@ Javascript Implementation of WebAsssembly-based delta sync with optimizations.
 ## Document
 > Javascript Implementation of rsync algorithm: public/js/bit-sync.js
 > 
-> WebRsync Client: public/js/sync-client.js
+> WASMrsync Client: public/js/sync-client.js
 > 
-> WebRsync Server: app.js
+> WASMrsync Server: app.js
