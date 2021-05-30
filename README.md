@@ -1,6 +1,6 @@
-# WebRsync
+# WASMrsync
 
-Pure Javascript Implementation of rsync.
+Javascript Implementation of WebAsssembly-based delta sync with optimizations.
 
 *Notice: 
 
@@ -22,8 +22,8 @@ Pure Javascript Implementation of rsync.
 >> \>\> Now ,visit localhost:8080 on your browser
 
 ## Document
-> Javascript Implementation of rsync algorithm: WebRsync/blob/master/public/js/bit-sync.js
+> Javascript Implementation of rsync algorithm: public/js/bit-sync.js
 > 
-> WebRsync Client: WebRsync/blob/master/public/js/sync-client.js
+> WebRsync Client: public/js/sync-client.js
 > 
-> WebRsync Server: WebRsync/blob/master/app.js
+> WebRsync Server: app.js
